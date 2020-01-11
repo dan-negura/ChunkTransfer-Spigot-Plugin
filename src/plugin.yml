@@ -1,0 +1,13 @@
+  name: ChunkTransfer
+  main: studio.dann.plugin.Plugin
+  version: 1.0
+  api-version: 1.14
+  author: Dan Negura (contact.dann@icloud.com, https://spigot.dann.studio/)
+
+  commands:
+    transferfrom:
+      description: Transfers the selected chunks from another world.
+      aliases: ['transferfrom']
+    select:
+      description: Selects two points to define the area to be traansfered from.
+      aliases: ['select']

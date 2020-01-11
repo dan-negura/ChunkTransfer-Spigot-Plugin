@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="regionregen_dev">
+    <output-path>$PROJECT_DIR$/../../Local Server 1.15.nosync/plugins</output-path>
+    <root id="archive" name="regionregen_dev.jar">
+      <element id="module-output" name="ChunkTransfer" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../SpigotUtils.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
