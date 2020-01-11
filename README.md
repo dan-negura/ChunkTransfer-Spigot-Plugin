@@ -1,5 +1,5 @@
 # ChunkTransfer-Spigot-Plugin
-A simple plugin that bypasses the chunk regeneration problem from Spigot 1.14 onwards.
+A simple plugin that allows for chunk transfer between worlds. The plugin makes it simple and simply replaces chunks in a destination world with the same coordinates' chunks from another world. There is no coordaintes and schematics headaches.
 Author: Dan Negura (contact.dann@icloud.com)
 
 ## The Motivation
